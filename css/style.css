@@ -54,6 +54,7 @@ body {
 
 .signup-form-container__trial {
   background-color: #5E54A4;
+  color: #fff;
   padding: 10px;
   border-radius: 5px;
   box-shadow: 0 5px  #41414343;
